@@ -77,7 +77,7 @@ void loop() {
   }
 
   // Print axis
-  Serial.print("X=");
+  Serial.print("X=");//x reading its ok
   Serial.print(xdata);
   Serial.print("\t");
   
